@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Mirandovski
-- 👀 I’m interested in Java, IOT, Python, C, Games, Estágio...
-- 🌱 I’m currently learning Lógica da Programação
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+  Olá a Todos!
+- 👋 Sou Daniel-Mi-Ro
+- 🌱 Sou estudante iniciante de Desenvolvimento de Sistemas no SENAI.
+- 👀 Estou interessado em Java, IOT, Python, Games, Estágio...
+- 📫 Meu email é Kowalski.mono.rodrigues@gmail.com
 
-<!---
-Mirandovski/Mirandovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
