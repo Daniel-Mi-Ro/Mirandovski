@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mirandovski
-- 👀 I’m interested in Java, IOT, Python, C, Games, Emprego...
+- 👀 I’m interested in Java, IOT, Python, C, Games, Estágio...
 - 🌱 I’m currently learning Lógica da Programação
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
